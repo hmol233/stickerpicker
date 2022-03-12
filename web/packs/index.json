@@ -2,7 +2,12 @@
   "packs": [
     "punipuni_Black_and_white_cat_boy.json",
     "LINE_Mafumafu_cat_Sticker.json",
-    "Shiro_Cat.json"
+    "Shiro_Cat.json",
+    "NekoHD.json",
+    "zhehelima.json",
+    "http_cat.json",
+    "LINE_Paimons_Paintings_Set.json",
+    "ProgrammerSuica.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
